@@ -1,1 +1,2 @@
-Hello Git!"# New_project" 
+Hello Git!
+Let's Learn togther
